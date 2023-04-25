@@ -1,0 +1,2 @@
+Phantoms: +20% daño // +15% vida
+Zombies: Variedades aumentadas
