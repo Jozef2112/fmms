@@ -1,4 +1,1 @@
-Phantoms: +20% daño // +15% vida
-Zombies: Variedades aumentadas
-Esqueletos: -10% daño
-Creepers: +50% daño
+Bienvenido a Hell-Core 2
